@@ -13,7 +13,7 @@ class TokenType:
     MUL = 'MUL'
     DIV = 'DIV'
     LPAREN = 'LPAREN'
-    PPAREN = 'PPAREN'
+    RPAREN = 'RPAREN'
     EOF = "EOF"  # Означає кінець вхідного рядка
 
 
